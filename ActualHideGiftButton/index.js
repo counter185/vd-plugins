@@ -1,0 +1,1 @@
+(function(t,n){"use strict";var e={onLoad:function(){n.findByName("ChatInput").defaultProps.hideGiftButton=!0},onUnload:function(){n.findByName("ChatInput").defaultProps.hideGiftButton=!1}};return t.default=e,Object.defineProperty(t,"__esModule",{value:!0}),t})({},vendetta.metro);
