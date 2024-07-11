@@ -1,0 +1,8 @@
+{
+    "name": "ActualHideGiftButton",
+    "description": "because bro really did push a commit that breaks the whole plugin and hasn't fixed it for like a whole year",
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_gift"
+    }
+}
